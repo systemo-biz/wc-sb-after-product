@@ -5,6 +5,7 @@ Description: Add sidebar after product WooCommerce
 Author: Systemo
 Version: 1.0
 Author URI: http://systemo.biz/
+Plugin URI: https://github.com/systemo-biz/wc-sb-after-product
 */
 
 
